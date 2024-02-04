@@ -83,6 +83,12 @@ export default {
           required: false,
         },
         {
+          name: "email",
+          label: "Email",
+          widget: "string",
+          required: false,
+        },
+        {
           name: "body",
           label: "Body",
           widget: "markdown",

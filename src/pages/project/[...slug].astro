@@ -47,7 +47,7 @@ const { Content } = await entry.render();
         <h6 class="text-base font-normal normal-case opacity-80 text-center mt-2 mb-8">for {entry.data.tag.join(', ').replace(/,(?!.*,)/gmi, ' &')}</h6>
         <div class="prose prose-zinc">
           <Content />
-          <Links github={entry.data.github} isWIP={entry.data.isWIP} website={entry.data.website} />
+          <Links github={entry.data.github} isWIP={entry.data.isWIP} website={entry.data.website} email={entry.data.email} />
         </div>
       </div>
       <div class="mt-0 flex items-center justify-between space-between gap-6 w-full mx-auto max-w-lg mb-24 flex-col md:flex-row">

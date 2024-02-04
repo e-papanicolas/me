@@ -11,6 +11,7 @@ const projectsCollection = defineCollection({
       github: z.string(),
       isWIP: z.boolean().optional(),
       website: z.string().optional(),
+      email: z.string().optional(),
     }),
 });
 
