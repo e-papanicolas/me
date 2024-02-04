@@ -7,6 +7,7 @@ import netlify from "@astrojs/netlify";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "ubiquitous-madeleine-e24808.netlify.app",
   image: {
     service: squooshImageService(),
   },
