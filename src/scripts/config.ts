@@ -89,6 +89,12 @@ export default {
           required: false,
         },
         {
+          name: "demo",
+          label: "Demo",
+          widget: "string",
+          required: false,
+        },
+        {
           name: "body",
           label: "Body",
           widget: "markdown",

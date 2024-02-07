@@ -12,6 +12,7 @@ const projectsCollection = defineCollection({
       isWIP: z.boolean().optional(),
       website: z.string().optional(),
       email: z.string().optional(),
+      demo: z.string().optional(),
     }),
 });
 
