@@ -4,7 +4,7 @@ tag:
 title: LemonAID
 image: assets/lemonaid.png
 date: 2024-02-04
-github: 'https://github.com/e-papanicolas/lemonaid'
+github: 'https://github.com/the-rainbow-bridge/lemonaid'
 isWIP: true
 ---
 
