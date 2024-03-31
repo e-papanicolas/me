@@ -69,6 +69,7 @@ export default {
           name: "github",
           label: "Github",
           widget: "string",
+          required: false,
         },
         {
           name: "isWIP",
