@@ -4,11 +4,11 @@ tag:
 title: LemonAID
 image: assets/lemonaid.png
 date: 2024-02-04
-github: 'https://github.com/the-rainbow-bridge/lemonaid'
+github: 'https://github.com/e-papanicolas/lemonaid'
 isWIP: true
 ---
 
-A family collaboration, in the ideation and beginning of creation phase...
+A family collaboration, in the ideation and creation phase...
 
 Our **vision** is to live in a world where ALL people have their basic needs met, are supported by their communities, and live in harmony with the natural environment.
 
