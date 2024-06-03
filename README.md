@@ -1,6 +1,8 @@
-# Portfolio v2
+# Portfolio
 
-## 🚀 Project Structure
+This is the code for my personal website.
+
+## 🚀 Astro Project Structure
 
 ```
 /
